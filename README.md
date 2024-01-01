@@ -119,7 +119,7 @@ Email - yar.gorlenko@gmail.com
 
 LinkedIn - [Yaroslav Gorlenko](https://www.linkedin.com/in/yaroslav-gorlenko-a6bb60297/)
 
-Project Link: [DVA VARENYKY](https://github.com/Restauran)
+Project Link: [DVA VARENYKY](https://github.com/Restaurant)
 
 Ready project: https://dva-varenika.netlify.app/
 
