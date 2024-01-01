@@ -2,7 +2,6 @@
 <a name="readme-top"></a>
 
   <h3 align="center">DVA VARENYKY</h3>
-
   <p align="center">
     The app of the restorant 'DVA VARENYKY'
     <br />
@@ -34,8 +33,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![image](https://github.com/WarriorOFlonelinesS/financial_market_news_blog/assets/98014616/a928b680-19a5-4718-b198-8fce7da8f994)
-
+![image](https://github.com/WarriorOFlonelinesS/Restaurant/assets/98014616/7f021a22-2102-4ac0-a0a3-2fc476315fc2)
 
  DVA VARENYKA is your ideal companion in the world of savory and diverse culinary delights! Our app offers a unique experience for lovers of gastronomy and gourmets, providing access to a rich menu and the convenience of placing orders online.
 
@@ -121,7 +119,9 @@ Email - yar.gorlenko@gmail.com
 
 LinkedIn - [Yaroslav Gorlenko](https://www.linkedin.com/in/yaroslav-gorlenko-a6bb60297/)
 
-Project Link: [Sharetrade](https://github.com/WarriorOFlonelinesS/financial_market_news_blog)
+Project Link: [DVA VARENYKY](https://github.com/Restauran)
+
+Ready project: https://dva-varenika.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
