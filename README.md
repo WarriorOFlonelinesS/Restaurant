@@ -1,12 +1,8 @@
-
-<a name="readme-top"></a>
-
   <h3 align="center">DVA VARENYKY</h3>
   <p align="center">
     The app of the restorant 'DVA VARENYKY'
     <br />
 </div>
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -83,7 +79,7 @@ DVA VARENYKA aims not only to satisfy your appetite but also to create an unforg
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/WarriorOFlonelinesS/Restaurant.git
    ```
 2. Install NPM packages
    ```sh
@@ -93,13 +89,33 @@ DVA VARENYKA aims not only to satisfy your appetite but also to create an unforg
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
+<p>
+  For ordering a dish, you need to click on buttons 'Замовити'. Also you can scroll by orange buttons.
+</p>
 
-For using of this site you chould click on the image
-![image](https://github.com/WarriorOFlonelinesS/financial_market_news_blog/assets/98014616/a928b680-19a5-4718-b198-8fce7da8f994)
+<img src = 'https://github.com/WarriorOFlonelinesS/Restaurant/assets/98014616/26ed6ee2-5e74-42c1-ba6d-4483c01cfa93'>
+<br>
 
-After you can see the article
-![image](https://github.com/WarriorOFlonelinesS/financial_market_news_blog/assets/98014616/3778999b-6fe3-491c-ac2c-968e2eb3be71)
+<p>
+  After ordering, a message will appeare:
+</p>
 
+<div align='center'>
+  <img src='https://github.com/WarriorOFlonelinesS/Restaurant/assets/98014616/51b78d7a-4ca5-47d5-8c72-dd03957b4307'>
+</div>
+
+<p>
+  Next, you should click on an icon of a cart, and you will see this window:
+</p>
+
+<img src="https://github.com/WarriorOFlonelinesS/Restaurant/assets/98014616/3c64b542-0e8d-4d57-b85d-795215edcc47" alt="cart">
+
+<p>
+    When you switched from the cart to window 'Оформлення замовлення' by clicking on appropriate button.
+</p>
+
+<img src='https://github.com/WarriorOFlonelinesS/Restaurant/assets/98014616/5384da56-a95f-4071-aa4c-ae7e85c9e74c'>
+'Finally, you need fill a form and click on "Оформити"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
