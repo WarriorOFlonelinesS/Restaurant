@@ -37,14 +37,36 @@
 ![image](https://github.com/WarriorOFlonelinesS/financial_market_news_blog/assets/98014616/a928b680-19a5-4718-b198-8fce7da8f994)
 
 
-Sharetrade is a financial market news blog app designed to provide users with up-to-date and relevant information about the stock market, bonds, currencies, and other financial instruments.
+ DVA VARENYKA is your ideal companion in the world of savory and diverse culinary delights! Our app offers a unique experience for lovers of gastronomy and gourmets, providing access to a rich menu and the convenience of placing orders online.
 
+Main features of the DVA VARENYKA application:
+
+Diverse Menu:
+
++ A wide variety of dishes to satisfy any taste and preference.
+
+Easy Ordering:
+
++ A simple and intuitive interface for easy food ordering. 
++ Ability to customize dishes according to user preferences. 
++ Option to add items to the cart and edit the order. 
+
+Fast and Secure Delivery:
+
++ Secure and reliable payment methods.
++ Choice of self-pickup or convenient delivery to the specified address.
++ Promotions and Special Offers:
+
+Customer Feedback and Support:
+
++ Easy access to support service contacts.
++ Ability to rate dishes and leave reviews. 
+
+DVA VARENYKA aims not only to satisfy your appetite but also to create an unforgettable food ordering experience. Indulge in the flavor of every meal, making orders in our convenient app!
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Firebase][Firebase]][Firebase-url]
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
